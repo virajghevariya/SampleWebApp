@@ -1,3 +1,3 @@
-# SampleWebApp
+# WebApp
 DevOps First Project
 
